@@ -1,0 +1,6 @@
+scipy
+numpy
+scikit-image
+scikit-learn
+matplotlib
+notebook
