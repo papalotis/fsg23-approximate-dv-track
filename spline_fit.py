@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-"""
-Description:
-
-Project: FaSTTUBe Doom Common
-"""
+'A helper module from spline fitting taken from ft-fsd-path-planning'
 
 from dataclasses import dataclass
 from typing import Any, Optional, Tuple
